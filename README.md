@@ -1,12 +1,10 @@
-<a href="#"><img width="90%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
-
 <h3 align="center">Hey there, I'm Shachar Korall <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-
-### 📖 About me
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 * 🎓 I'm a Computer Science student (graduating in February 2023)
 * 🎨 I'm a self-taught, continuously searching for greater challenges
-* 🌐 You can see some of my projects on [my portfolio][projects
+* 🌐 You can see some of my projects on [my portfolio][projects]
 
 
 ### 📫 Connect with me:
@@ -23,6 +21,8 @@
 [website]: https://github.com/shachar08
 [linkedin]: https://www.linkedin.com/in/shachar-korall-75277b215
 [gmail]: "mailto:shachar08@gmail.com"
+[projects]: https://github.com/shachar08?tab=repositories
+
 
 
 
