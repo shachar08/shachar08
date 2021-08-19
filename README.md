@@ -1,16 +1,28 @@
-### Hi there 👋
+<a href="#"><img width="90%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
-<!--
-**shachar08/shachar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hey there, I'm David Levin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 About me
+* 🎓 I'm a Computer Science student (graduating in February 2023)
+* 🎨 I'm a self-taught, continuously searching for greater challenges
+* 🌐 You can see some of my projects on [my portfolio][projects]
+
+
+### 📫 Connect with me:
+
+[<img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlfredDagenais | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:davidlevin40@gmail.com)
+  
+
+<br />
+<br />
+
+
+[website]: https://github.com/shachar08
+[linkedin]: https://www.linkedin.com/in/shachar-korall-75277b215
+[gmail]: "mailto:shachar08@gmail.com"
+
+
+
