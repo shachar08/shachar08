@@ -6,7 +6,7 @@
 ### 📖 About me
 * 🎓 I'm a Computer Science student (graduating in February 2023)
 * 🎨 I'm a self-taught, continuously searching for greater challenges
-* 🌐 You can see some of my projects on [my portfolio][projects]
+* 🌐 You can see some of my projects on [my portfolio][projects
 
 
 ### 📫 Connect with me:
