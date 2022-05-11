@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-* 🎓 I'm a Computer Science student (graduating in February 2023)
+* 🎓 I'm a Computer Science student (graduating in July 2023)
 * 🎨 I'm a self-taught, continuously searching for greater challenges
 * 🌐 You can see some of my projects [here][projects]
 
